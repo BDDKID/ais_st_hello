@@ -6,5 +6,4 @@ plotly
 seaborn
 matplotlib
 koreanize-matplotlib
-FinanceDataReader
-datetime
+beautifulsoup4
